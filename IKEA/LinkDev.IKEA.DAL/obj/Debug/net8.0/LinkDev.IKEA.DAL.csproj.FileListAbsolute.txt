@@ -1,0 +1,12 @@
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\bin\Debug\net8.0\LinkDev.IKEA.DAL.deps.json
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\bin\Debug\net8.0\LinkDev.IKEA.DAL.dll
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\bin\Debug\net8.0\LinkDev.IKEA.DAL.pdb
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.csproj.AssemblyReference.cache
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.AssemblyInfoInputs.cache
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.AssemblyInfo.cs
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.dll
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\refint\LinkDev.IKEA.DAL.dll
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\LinkDev.IKEA.DAL.pdb
+D:\route course\7.MVC\New\08 ASP.NET Core MVC\Project\IKEA\LinkDev.IKEA.DAL\obj\Debug\net8.0\ref\LinkDev.IKEA.DAL.dll

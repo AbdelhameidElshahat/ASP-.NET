@@ -1,0 +1,22 @@
+﻿@model int 
+<td>
+    <a  asp-action="Details" asp-route-id="@Model" class="btn btn-warning btn-sm">
+        <i class="fa-solid fa-eye"></i> Details
+    </a>
+</td>
+<td>
+    <a  asp-action="Edit" asp-route-id="@Model" class="btn btn-success btn-sm">
+        <i class="fa-solid fa-edit"></i> Update
+    </a>
+</td>
+<td>
+  @*   <!-- Button trigger modal -->
+    <button  type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@Model">
+        <i class="fa-solid fa-trash"></i> Delete
+    </button> *@
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@Model">
+        <!-- Changed ID to be unique -->
+        <i class="fa-solid fa-trash"></i> Delete
+    </button>
+</td>
